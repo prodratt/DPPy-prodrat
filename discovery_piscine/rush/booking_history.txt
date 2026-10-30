@@ -1,0 +1,14 @@
+Date/Time: 30/10/2026 10:07:34
+Action: Booking
+Booking ID: 1
+Student ID: 67056780
+Table: 1
+Time Slot: 09:00-12:00
+------------------------------
+Date/Time: 30/10/2026 11:09:53
+Action: Booking
+Booking ID: 1
+Student ID: 67050623
+Table: 1
+Time Slot: 13:00-16:00
+------------------------------
